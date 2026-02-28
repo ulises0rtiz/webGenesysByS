@@ -1,0 +1,25 @@
+# ========================
+# Dependencias de Frontend (React)
+# ========================
+node_modules/
+dist/
+.eslintcache
+
+# ========================
+# Entornos de Backend (Python/FastAPI)
+# ========================
+venv/
+env/
+__pycache__/
+*.pyc
+
+# ========================
+# Archivos de Entorno (¡MUY IMPORTANTE PARA LA SEGURIDAD!)
+# ========================
+.env
+
+# ========================
+# Archivos del Sistema Operativo
+# ========================
+.DS_Store
+Thumbs.db
